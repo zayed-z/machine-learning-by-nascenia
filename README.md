@@ -15,10 +15,10 @@ Submitted by: <br>
 
 | # | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Title-1 | [Exercise 01](https://)
-| 02 | Title-2 | [Exercise 02](https://)
-| 03 | Title-3 | [Exercise 03](https://)
-| 04 | Title-4 | [Exercise 04](https://)
-| 05 | Title-5 | [Exercise 05](https://)
+| 01 | Exercise 01 (Due on 23.05.25) | [Exercise 01](https://github.com/zayed-z/machine-learning-by-nascenia/tree/main/Exercise%201)
+| 02 |  | []()
+| 03 |  | []()
+| 04 |  | []()
+| 05 |  | []()
 
 
