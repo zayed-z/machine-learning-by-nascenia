@@ -16,9 +16,4 @@ Submitted by: <br>
 | # | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Exercise 01 (Due on 23.05.25) | [Exercise 01](https://github.com/zayed-z/machine-learning-by-nascenia/tree/main/Exercise%201)
-| 02 |  | []()
-| 03 |  | []()
-| 04 |  | []()
-| 05 |  | []()
-
-
+| 02 | Final Assesment (Due on 08.09.25) | [Final Assesment](https://github.com/zayed-z/machine-learning-by-nascenia/tree/main/Final%20Assesment)
