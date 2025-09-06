@@ -65,6 +65,9 @@ experience and security.
 
 </ul>
 
+### Project Files
+As github does not allow to push large files so the whole project structure with trained models are uploaded in [Google Drive](https://drive.google.com/drive/folders/1T7_Qba9Ak2YdCx3lFyNDJUiRrY3lRbQL?usp=sharing)
+
 ### Project Demo
 <div>
 <img src = "./Final_Assessment_demo.gif">
